@@ -1,1 +1,2 @@
-<img align="right" href="#" onclick="return false;" src="https://github-readme-stats.vercel.app/api?username=j3ygithub&show_icons=false&hide_title=false&icon_color=000000" alt="j3ygithub's github stats" />
+<h1>j3y.code()</h1>
+<img align="left" href="#" onclick="return false;" src="https://github-readme-stats.vercel.app/api?username=j3ygithub&hide_title=true" alt="j3ygithub's github stats" />
